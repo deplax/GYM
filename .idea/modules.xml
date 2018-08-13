@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/GYM.iml" filepath="$PROJECT_DIR$/.idea/GYM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaGym.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaGym.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaGym_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaGym_main.iml" group="JavaGym" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaGym_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaGym_test.iml" group="JavaGym" />
+      <module fileurl="file://$PROJECT_DIR$/PythonGym/PythonGym.iml" filepath="$PROJECT_DIR$/PythonGym/PythonGym.iml" />
+    </modules>
+  </component>
+</project>
