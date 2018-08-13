@@ -1,0 +1,6 @@
+[submodule "JavaGym"]
+	path = JavaGym
+	url = https://deplax@github.com/deplax/JavaGym.git
+[submodule "PythonGym"]
+	path = PythonGym
+	url = https://deplax@github.com/deplax/PythonGym.git
