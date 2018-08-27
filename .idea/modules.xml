@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaGym_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaGym_main.iml" group="JavaGym" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaGym_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaGym_test.iml" group="JavaGym" />
       <module fileurl="file://$PROJECT_DIR$/PythonGym/PythonGym.iml" filepath="$PROJECT_DIR$/PythonGym/PythonGym.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScalaGym/.idea/modules/scalagym.iml" filepath="$PROJECT_DIR$/ScalaGym/.idea/modules/scalagym.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScalaGym/.idea/modules/scalagym-build.iml" filepath="$PROJECT_DIR$/ScalaGym/.idea/modules/scalagym-build.iml" />
     </modules>
   </component>
 </project>
