@@ -4,3 +4,6 @@
 [submodule "PythonGym"]
 	path = PythonGym
 	url = https://deplax@github.com/deplax/PythonGym.git
+[submodule "ScalaGym"]
+	path = ScalaGym
+	url = https://deplax@github.com/deplax/ScalaGym
